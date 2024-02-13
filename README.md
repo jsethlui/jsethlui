@@ -1,1 +1,1 @@
-Hi, my name is Jeremy. I’m a recent-graduate Mathematics of Computation major at UCLA. I’m looking to continue to build upon my programmer skill sets by widening my set of experience and engaging in interesting projects. If you're interested, free feel to connect!
+![LeetCode Stats](https://leetcard.jacoblin.cool/jsethlui?theme=dark&font=Inter&ext=heatmap)
